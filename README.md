@@ -6,7 +6,7 @@ The Smart And Intelligent Parking System
 
 pip install -r requirements.txt
 
-#To run:
+## To run:
 
 1. Clone and fork the repository
 
